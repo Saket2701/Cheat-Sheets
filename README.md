@@ -11,4 +11,4 @@ This repository provides quick-reference cheat sheets for three essential topics
 3. **Python**
    - Discover Python libraries and functions for data science tasks.
 
-Use these cheat sheets to streamline your learning and work more efficiently. Download or customize them to fit your needs. Enjoy your coding journey! 🚀
+Use these cheat sheets to streamline your learning and work more efficiently. Download or customize them to fit your needs. Enjoy your coding journey! 🚀🍟
